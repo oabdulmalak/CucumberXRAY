@@ -1,0 +1,1 @@
+curl -u admin:admin http://localhost:8080/rest/raven/1.0/export/test?keys=XRAY-17;XRAY-18;XRAY-19 -o OAM.feature
